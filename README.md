@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanchet22
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning programming language 
+- 🌱 I’m currently learning programming languages 
 -
 
 <!---
