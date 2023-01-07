@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sanchet22
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning programming languages 
+- I have learned about Java,SpringBoot,ReactJs,MySql
 -
 
 <!---
